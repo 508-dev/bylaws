@@ -6,7 +6,7 @@ BYLAWS OF 508.DEV COOPERATIVE
 
 ## PREFATORY NOTE
 
-These Bylaws govern 508.dev Cooperative ("508," "the Cooperative," or "the Company"), a Wyoming limited liability company taxed as a partnership for U.S. federal income tax purposes. These Bylaws operate together with the Cooperative's Operating Agreement — the document recognized under the Wyoming Limited Liability Company Act, Wyo. Stat. § 17-29-101 et seq. for purposes of state filings, banking, and third-party dealings — and with the [Member Agreement](/doc/draft-member-agreement-BIZFA9Xfi4).
+These Bylaws govern 508.dev Cooperative ("508," "the Cooperative," or "the Company"), a Wyoming limited liability company taxed as a partnership for U.S. federal income tax purposes. These Bylaws operate together with the Cooperative's Operating Agreement — the document recognized under the Wyoming Limited Liability Company Act, Wyo. Stat. § 17-29-101 et seq. for purposes of state filings, banking, and third-party dealings — and with the [Member Agreement](memberagreement.md).
 
 Where these Bylaws and the Operating Agreement conflict on a narrow matter of statutory or third-party formality (e.g., who is recognized as a signatory by a bank or counterparty), the Operating Agreement controls for that limited purpose. In all other respects — internal governance, membership, economic participation, and cooperative practice — these Bylaws are the controlling and authoritative document among Members.
 
@@ -195,7 +195,7 @@ Surplus is defined as revenue minus:
 
 Surplus shall be allocated according to Member vote and may include:
 
-* Patronage distributions proportional to each Member's labor contribution (e.g., hours worked or revenue generated) during the relevant period.
+* Patronage distributions proportional to each Member's labor contribution (e.g., hours worked) during the relevant period.
 * Retained earnings credited to the Collective Account for Cooperative growth.
 * Investment in shared tools or infrastructure.
 
